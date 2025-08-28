@@ -1,0 +1,4 @@
+data/  
+!data/.gitkeep 
+*.h5ad 
+*.h5 *.loom *.mtx *.gz *.zip
