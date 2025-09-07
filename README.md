@@ -6,6 +6,7 @@ This project uses the **Tabula Sapiens** single-cell atlas, specifically the **t
 - **Source:** [Tabula Sapiens on CELLxGENE](https://cellxgene.cziscience.com/collections)  
 - **Citation:**  
   *The Tabula Sapiens Consortium. "The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans." Science, 2022.*
+  - Tabula Sapiens is comprised of single-cell transcriptomic data from "17 tissues from one donor, 14 tissues from a second donor, and five tissues from two other donors (Fig. 1). We also collected smaller numbers of tissues from a further 11 donors, creating biological replicates for nearly all tissues. The donors come from a range of ethnicities, are balanced by gender, have a mean age of 51 years, and have a variety of medical backgrounds." Thymus tissue data specifically came from two donors, TPS2 and TSP14. 
 
 ### Download Instructions
 1. Go to the [Tabula Sapiens Collection](https://cellxgene.cziscience.com/collections).
